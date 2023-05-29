@@ -14,8 +14,3 @@ To generate a config.toml file `./gobalance -g`
 - `go mod vendor`
 - `go build -o gobalance main.go`
 
-
-# Donations
-
-- BTC: `bc1qup5rdsrxh5dfh9gxvdzwapdltxkc50wgda8n7t`
-- XMR: `83pJEonAgps6F61RSk6SAmFi4xmq4zVYmaDTk8eFGLE49dm1ZE2bLVaWqumHLRGU8gewV6wGffmhrV3RN35TXy8CK9UhWMa`
